@@ -1,2 +1,2 @@
 # Python
-Python codes
+This repo contain DS Content in Python language.
